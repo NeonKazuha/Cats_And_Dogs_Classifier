@@ -1,2 +1,2 @@
 # Cats_And_Dogs_Classifier
-Differentiates between Cats and Dogs using Convoluted Neural Networks in the ipynb file. Furthermore, contains Images of Cats and Dogs in the Data as well as the TrainingSet Folder.
+Differentiates between Cats and Dogs using Convoluted Neural Networks in the ipynb file. Furthermore, cImages of Cats and Dogs can be downloaded over the Internet.
